@@ -1,0 +1,21 @@
+h1  {
+    text-align: center;
+    background-color: #CBC3E3;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: "Courier New"
+    } 
+
+body{
+    text-align: left;  
+    background-color: wheat
+    }
+
+div {
+    text-align: center;
+    background-color: #CBC3E3;
+    margin-top: -8px;
+    margin-left: -8px;
+    margin-right: -8px;
+    margin-bottom: 10px;
+    }
