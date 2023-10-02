@@ -15,7 +15,6 @@ h2  {
     text-align: center;
     text-align: top;
     background-color: #9fd3c7;
-    
     color: #373331;
     margin-top: 0px;
     margin-bottom: 0px;
@@ -179,4 +178,52 @@ audio {
     align-items: center;
     text-align: center;
     padding: 10px;
+}
+
+#idx {
+    margin-top: 80vh;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding: 10px;
+    margin-bottom: -10px;
+    display: block;
+    align-items: center;
+    text-align: center;
+    background-color: #9fd3c7;
+  }
+
+#fav {
+    margin-top: 90vh;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding: 10px;
+    margin-bottom: -10px;
+    display: block;
+    align-items: center;
+    text-align: center;
+    background-color: #9fd3c7;
+}
+
+#skl {
+    margin-top: 78vh;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding: 10px;
+    margin-bottom: -10px;
+    display: block;
+    align-items: center;
+    text-align: center;
+    background-color: #9fd3c7;
+}
+
+#spt {
+    margin-top: 0vh;
+    margin-left: -8px;
+    margin-right: -8px;
+    padding: 10px;
+    margin-bottom: -10px;
+    display: block;
+    align-items: center;
+    text-align: center;
+    background-color: #9fd3c7;
 }
