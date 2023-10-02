@@ -172,4 +172,11 @@ form {
     font-size: 15px;
     font-family: "Comic Sans MS";
     padding: 0;
+    background-color: #fff3e1;
+}
+
+audio {
+    align-items: center;
+    text-align: center;
+    padding: 10px;
 }
